@@ -9,3 +9,5 @@ Model 2: Dispatch policy using FCFS and first available vehicle
 #Requirements:
 Python 3.11+
 Dependencies listed in "requirements.txt"
+
+#Run with python -m src.main
