@@ -1,0 +1,12 @@
+[
+  {"run_id":"001","purpose":"Baseline","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":101,"policy":"edd"},
+  {"run_id":"002","purpose":"Higher arrivals","lam":3.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":102,"policy":"edd"},
+  {"run_id":"003","purpose":"Lower arrivals","lam":1.5,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":103,"policy":"edd"},
+  {"run_id":"004","purpose":"More servers","lam":2.0,"mu":3.0,"servers":2,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":104,"policy":"edd"},
+  {"run_id":"005","purpose":"Fewer servers","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":105,"policy":"edd"},
+  {"run_id":"006","purpose":"Bigger fleet","lam":2.0,"mu":3.0,"servers":1,"fleet":5,"vehicle_capacity":8,"horizon":500,"seed":106,"policy":"edd"},
+  {"run_id":"007","purpose":"Smaller fleet","lam":2.0,"mu":3.0,"servers":1,"fleet":2,"vehicle_capacity":8,"horizon":500,"seed":107,"policy":"edd"},
+  {"run_id":"008","purpose":"High load combo","lam":3.0,"mu":3.0,"servers":1,"fleet":2,"vehicle_capacity":8,"horizon":500,"seed":108,"policy":"edd"},
+  {"run_id":"009","purpose":"FCFS baseline compare","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":109,"policy":"fcfs"},
+  {"run_id":"010","purpose":"FCFS higher arrivals","lam":3.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":110,"policy":"fcfs"}
+]
