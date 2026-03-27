@@ -59,7 +59,7 @@ def dispatcher(env, rng, vehicles, vehicleCapacity, readyList, metrics, horizon,
     while env.now < horizon:
         yield env.timeout(0.5)
 
-        # fleet fully utilized
+        
         if vehicles.count >= vehicles.capacity:
             continue
 
@@ -80,7 +80,7 @@ def dispatcher(env, rng, vehicles, vehicleCapacity, readyList, metrics, horizon,
                 "vehicles_in_use": vehicles.count,
             })
 
-            # outbound
+           
             yield env.timeout(travelTime(rng))
             order.deliveredTime = env.now
 
@@ -94,7 +94,7 @@ def dispatcher(env, rng, vehicles, vehicleCapacity, readyList, metrics, horizon,
                 "time_in_system": (order.deliveredTime - order.arrival),
             })
 
-            # return trip
+            
             yield env.timeout(travelTime(rng))
 
 
