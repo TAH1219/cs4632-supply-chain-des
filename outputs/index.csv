@@ -1,0 +1,12 @@
+run_id,purpose,lam,mu,servers,fleet,vehicle_capacity,horizon,seed,policy,duration_s,status,timeseries_file,events_file,summary_file,config_file
+001,Baseline,2.0,3.0,1,3,8,500.0,123,edd,0.019619,Complete,run_001_timeseries.csv,run_001_events.csv,run_001_summary.json,run_001_config.json
+001,Baseline,2.0,3.0,1,3,8,500.0,101,edd,0.018986,Complete,run_001_timeseries.csv,run_001_events.csv,run_001_summary.json,run_001_config.json
+002,Higher arrivals,3.0,3.0,1,3,8,500.0,102,edd,0.026673,Complete,run_002_timeseries.csv,run_002_events.csv,run_002_summary.json,run_002_config.json
+003,Lower arrivals,1.5,3.0,1,3,8,500.0,103,edd,0.013028,Complete,run_003_timeseries.csv,run_003_events.csv,run_003_summary.json,run_003_config.json
+004,More servers,2.0,3.0,2,3,8,500.0,104,edd,0.024611,Complete,run_004_timeseries.csv,run_004_events.csv,run_004_summary.json,run_004_config.json
+005,Fewer servers,2.0,3.0,1,3,8,500.0,105,edd,0.019382,Complete,run_005_timeseries.csv,run_005_events.csv,run_005_summary.json,run_005_config.json
+006,Bigger fleet,2.0,3.0,1,5,8,500.0,106,edd,0.018726,Complete,run_006_timeseries.csv,run_006_events.csv,run_006_summary.json,run_006_config.json
+007,Smaller fleet,2.0,3.0,1,2,8,500.0,107,edd,0.019443,Complete,run_007_timeseries.csv,run_007_events.csv,run_007_summary.json,run_007_config.json
+008,High load combo,3.0,3.0,1,2,8,500.0,108,edd,0.025966,Complete,run_008_timeseries.csv,run_008_events.csv,run_008_summary.json,run_008_config.json
+009,FCFS baseline compare,2.0,3.0,1,3,8,500.0,109,fcfs,0.018386,Complete,run_009_timeseries.csv,run_009_events.csv,run_009_summary.json,run_009_config.json
+010,FCFS higher arrivals,3.0,3.0,1,3,8,500.0,110,fcfs,0.023698,Complete,run_010_timeseries.csv,run_010_events.csv,run_010_summary.json,run_010_config.json

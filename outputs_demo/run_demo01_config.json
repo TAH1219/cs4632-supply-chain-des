@@ -1,0 +1,22 @@
+{
+  "run_id": "demo01",
+  "lam": 2.0,
+  "mu": 3.0,
+  "servers": 1,
+  "fleet": 3,
+  "vehicle_capacity": 8,
+  "horizon": 500.0,
+  "seed": 101,
+  "policy": "edd",
+  "sample_dt": 1.0,
+  "environment": {
+    "python": "3.11.9",
+    "platform": "Windows-10-10.0.19045-SP0",
+    "simpy_version": "4.1.1"
+  },
+  "run_started_utc": "2026-05-01T03:47:31.556710+00:00",
+  "purpose": "",
+  "run_finished_utc": "2026-05-01T03:47:31.578358+00:00",
+  "duration_s": 0.021366999950259924,
+  "status": "Complete"
+}

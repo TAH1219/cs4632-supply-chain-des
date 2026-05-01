@@ -1,0 +1,22 @@
+{
+  "run_id": "135",
+  "lam": 2.0,
+  "mu": 3.0,
+  "servers": 2,
+  "fleet": 3,
+  "vehicle_capacity": 8,
+  "horizon": 500.0,
+  "seed": 205,
+  "policy": "edd",
+  "sample_dt": 1.0,
+  "environment": {
+    "python": "3.11.9",
+    "platform": "Windows-10-10.0.19045-SP0",
+    "simpy_version": "4.1.1"
+  },
+  "run_started_utc": "2026-04-10T02:30:14.143135+00:00",
+  "purpose": "SENS_SERVERS_2",
+  "run_finished_utc": "2026-04-10T02:30:14.161151+00:00",
+  "duration_s": 0.018049299949780107,
+  "status": "Complete"
+}

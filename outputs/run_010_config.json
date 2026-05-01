@@ -1,0 +1,22 @@
+{
+  "run_id": "010",
+  "lam": 3.0,
+  "mu": 3.0,
+  "servers": 1,
+  "fleet": 3,
+  "vehicle_capacity": 8,
+  "horizon": 500.0,
+  "seed": 110,
+  "policy": "fcfs",
+  "sample_dt": 1.0,
+  "environment": {
+    "python": "3.11.9",
+    "platform": "Windows-10-10.0.19045-SP0",
+    "simpy_version": "4.1.1"
+  },
+  "run_started_utc": "2026-04-10T02:05:59.369706+00:00",
+  "purpose": "FCFS higher arrivals",
+  "run_finished_utc": "2026-04-10T02:05:59.393727+00:00",
+  "duration_s": 0.023697600001469254,
+  "status": "Complete"
+}

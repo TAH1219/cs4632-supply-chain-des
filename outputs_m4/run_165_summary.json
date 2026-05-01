@@ -1,0 +1,25 @@
+{
+  "lam": 3.0,
+  "mu": 3.0,
+  "servers": 1,
+  "fleet": 2,
+  "vehicle_capacity": 8,
+  "horizon": 500.0,
+  "seed": 205,
+  "policy": "edd",
+  "rho": 1.0,
+  "completed": 24,
+  "avg_wait_arrival_to_dispatch": 247.42587936710984,
+  "on_time_rate": 0.041666666666666664,
+  "max_incoming_q": 63,
+  "max_ready_q": 1489,
+  "max_vehicles_in_use": 1,
+  "event_counts": {
+    "order_created": 1508,
+    "order_ready": 1494,
+    "order_dispatched": 25,
+    "order_delivered": 24
+  },
+  "duration_s": 0.026815199991688132,
+  "status": "Complete"
+}

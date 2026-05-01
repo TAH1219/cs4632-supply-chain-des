@@ -1,0 +1,97 @@
+[
+  {"run_id":"101","purpose":"SENS_LAM_1.0","lam":1.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":201,"policy":"edd"},
+  {"run_id":"102","purpose":"SENS_LAM_1.0","lam":1.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":202,"policy":"edd"},
+  {"run_id":"103","purpose":"SENS_LAM_1.0","lam":1.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":203,"policy":"edd"},
+  {"run_id":"104","purpose":"SENS_LAM_1.0","lam":1.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":204,"policy":"edd"},
+  {"run_id":"105","purpose":"SENS_LAM_1.0","lam":1.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":205,"policy":"edd"},
+
+  {"run_id":"106","purpose":"SENS_LAM_1.5","lam":1.5,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":201,"policy":"edd"},
+  {"run_id":"107","purpose":"SENS_LAM_1.5","lam":1.5,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":202,"policy":"edd"},
+  {"run_id":"108","purpose":"SENS_LAM_1.5","lam":1.5,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":203,"policy":"edd"},
+  {"run_id":"109","purpose":"SENS_LAM_1.5","lam":1.5,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":204,"policy":"edd"},
+  {"run_id":"110","purpose":"SENS_LAM_1.5","lam":1.5,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":205,"policy":"edd"},
+
+  {"run_id":"111","purpose":"SENS_LAM_2.0","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":201,"policy":"edd"},
+  {"run_id":"112","purpose":"SENS_LAM_2.0","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":202,"policy":"edd"},
+  {"run_id":"113","purpose":"SENS_LAM_2.0","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":203,"policy":"edd"},
+  {"run_id":"114","purpose":"SENS_LAM_2.0","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":204,"policy":"edd"},
+  {"run_id":"115","purpose":"SENS_LAM_2.0","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":205,"policy":"edd"},
+
+  {"run_id":"116","purpose":"SENS_LAM_2.5","lam":2.5,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":201,"policy":"edd"},
+  {"run_id":"117","purpose":"SENS_LAM_2.5","lam":2.5,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":202,"policy":"edd"},
+  {"run_id":"118","purpose":"SENS_LAM_2.5","lam":2.5,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":203,"policy":"edd"},
+  {"run_id":"119","purpose":"SENS_LAM_2.5","lam":2.5,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":204,"policy":"edd"},
+  {"run_id":"120","purpose":"SENS_LAM_2.5","lam":2.5,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":205,"policy":"edd"},
+
+  {"run_id":"121","purpose":"SENS_LAM_3.0","lam":3.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":201,"policy":"edd"},
+  {"run_id":"122","purpose":"SENS_LAM_3.0","lam":3.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":202,"policy":"edd"},
+  {"run_id":"123","purpose":"SENS_LAM_3.0","lam":3.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":203,"policy":"edd"},
+  {"run_id":"124","purpose":"SENS_LAM_3.0","lam":3.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":204,"policy":"edd"},
+  {"run_id":"125","purpose":"SENS_LAM_3.0","lam":3.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":205,"policy":"edd"},
+
+  {"run_id":"126","purpose":"SENS_SERVERS_1","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":201,"policy":"edd"},
+  {"run_id":"127","purpose":"SENS_SERVERS_1","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":202,"policy":"edd"},
+  {"run_id":"128","purpose":"SENS_SERVERS_1","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":203,"policy":"edd"},
+  {"run_id":"129","purpose":"SENS_SERVERS_1","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":204,"policy":"edd"},
+  {"run_id":"130","purpose":"SENS_SERVERS_1","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":205,"policy":"edd"},
+
+  {"run_id":"131","purpose":"SENS_SERVERS_2","lam":2.0,"mu":3.0,"servers":2,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":201,"policy":"edd"},
+  {"run_id":"132","purpose":"SENS_SERVERS_2","lam":2.0,"mu":3.0,"servers":2,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":202,"policy":"edd"},
+  {"run_id":"133","purpose":"SENS_SERVERS_2","lam":2.0,"mu":3.0,"servers":2,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":203,"policy":"edd"},
+  {"run_id":"134","purpose":"SENS_SERVERS_2","lam":2.0,"mu":3.0,"servers":2,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":204,"policy":"edd"},
+  {"run_id":"135","purpose":"SENS_SERVERS_2","lam":2.0,"mu":3.0,"servers":2,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":205,"policy":"edd"},
+
+  {"run_id":"136","purpose":"SENS_SERVERS_3","lam":2.0,"mu":3.0,"servers":3,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":201,"policy":"edd"},
+  {"run_id":"137","purpose":"SENS_SERVERS_3","lam":2.0,"mu":3.0,"servers":3,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":202,"policy":"edd"},
+  {"run_id":"138","purpose":"SENS_SERVERS_3","lam":2.0,"mu":3.0,"servers":3,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":203,"policy":"edd"},
+  {"run_id":"139","purpose":"SENS_SERVERS_3","lam":2.0,"mu":3.0,"servers":3,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":204,"policy":"edd"},
+  {"run_id":"140","purpose":"SENS_SERVERS_3","lam":2.0,"mu":3.0,"servers":3,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":205,"policy":"edd"},
+
+  {"run_id":"141","purpose":"SENS_FLEET_2","lam":2.0,"mu":3.0,"servers":1,"fleet":2,"vehicle_capacity":8,"horizon":500,"seed":201,"policy":"edd"},
+  {"run_id":"142","purpose":"SENS_FLEET_2","lam":2.0,"mu":3.0,"servers":1,"fleet":2,"vehicle_capacity":8,"horizon":500,"seed":202,"policy":"edd"},
+  {"run_id":"143","purpose":"SENS_FLEET_2","lam":2.0,"mu":3.0,"servers":1,"fleet":2,"vehicle_capacity":8,"horizon":500,"seed":203,"policy":"edd"},
+  {"run_id":"144","purpose":"SENS_FLEET_2","lam":2.0,"mu":3.0,"servers":1,"fleet":2,"vehicle_capacity":8,"horizon":500,"seed":204,"policy":"edd"},
+  {"run_id":"145","purpose":"SENS_FLEET_2","lam":2.0,"mu":3.0,"servers":1,"fleet":2,"vehicle_capacity":8,"horizon":500,"seed":205,"policy":"edd"},
+
+  {"run_id":"146","purpose":"SENS_FLEET_3","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":201,"policy":"edd"},
+  {"run_id":"147","purpose":"SENS_FLEET_3","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":202,"policy":"edd"},
+  {"run_id":"148","purpose":"SENS_FLEET_3","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":203,"policy":"edd"},
+  {"run_id":"149","purpose":"SENS_FLEET_3","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":204,"policy":"edd"},
+  {"run_id":"150","purpose":"SENS_FLEET_3","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":205,"policy":"edd"},
+
+  {"run_id":"151","purpose":"SENS_FLEET_5","lam":2.0,"mu":3.0,"servers":1,"fleet":5,"vehicle_capacity":8,"horizon":500,"seed":201,"policy":"edd"},
+  {"run_id":"152","purpose":"SENS_FLEET_5","lam":2.0,"mu":3.0,"servers":1,"fleet":5,"vehicle_capacity":8,"horizon":500,"seed":202,"policy":"edd"},
+  {"run_id":"153","purpose":"SENS_FLEET_5","lam":2.0,"mu":3.0,"servers":1,"fleet":5,"vehicle_capacity":8,"horizon":500,"seed":203,"policy":"edd"},
+  {"run_id":"154","purpose":"SENS_FLEET_5","lam":2.0,"mu":3.0,"servers":1,"fleet":5,"vehicle_capacity":8,"horizon":500,"seed":204,"policy":"edd"},
+  {"run_id":"155","purpose":"SENS_FLEET_5","lam":2.0,"mu":3.0,"servers":1,"fleet":5,"vehicle_capacity":8,"horizon":500,"seed":205,"policy":"edd"},
+
+  {"run_id":"156","purpose":"SCENARIO_NORMAL","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":201,"policy":"edd"},
+  {"run_id":"157","purpose":"SCENARIO_NORMAL","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":202,"policy":"edd"},
+  {"run_id":"158","purpose":"SCENARIO_NORMAL","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":203,"policy":"edd"},
+  {"run_id":"159","purpose":"SCENARIO_NORMAL","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":204,"policy":"edd"},
+  {"run_id":"160","purpose":"SCENARIO_NORMAL","lam":2.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":205,"policy":"edd"},
+
+  {"run_id":"161","purpose":"SCENARIO_PEAK_STRESS","lam":3.0,"mu":3.0,"servers":1,"fleet":2,"vehicle_capacity":8,"horizon":500,"seed":201,"policy":"edd"},
+  {"run_id":"162","purpose":"SCENARIO_PEAK_STRESS","lam":3.0,"mu":3.0,"servers":1,"fleet":2,"vehicle_capacity":8,"horizon":500,"seed":202,"policy":"edd"},
+  {"run_id":"163","purpose":"SCENARIO_PEAK_STRESS","lam":3.0,"mu":3.0,"servers":1,"fleet":2,"vehicle_capacity":8,"horizon":500,"seed":203,"policy":"edd"},
+  {"run_id":"164","purpose":"SCENARIO_PEAK_STRESS","lam":3.0,"mu":3.0,"servers":1,"fleet":2,"vehicle_capacity":8,"horizon":500,"seed":204,"policy":"edd"},
+  {"run_id":"165","purpose":"SCENARIO_PEAK_STRESS","lam":3.0,"mu":3.0,"servers":1,"fleet":2,"vehicle_capacity":8,"horizon":500,"seed":205,"policy":"edd"},
+
+  {"run_id":"166","purpose":"SCENARIO_IDEAL","lam":1.5,"mu":3.0,"servers":2,"fleet":5,"vehicle_capacity":8,"horizon":500,"seed":201,"policy":"edd"},
+  {"run_id":"167","purpose":"SCENARIO_IDEAL","lam":1.5,"mu":3.0,"servers":2,"fleet":5,"vehicle_capacity":8,"horizon":500,"seed":202,"policy":"edd"},
+  {"run_id":"168","purpose":"SCENARIO_IDEAL","lam":1.5,"mu":3.0,"servers":2,"fleet":5,"vehicle_capacity":8,"horizon":500,"seed":203,"policy":"edd"},
+  {"run_id":"169","purpose":"SCENARIO_IDEAL","lam":1.5,"mu":3.0,"servers":2,"fleet":5,"vehicle_capacity":8,"horizon":500,"seed":204,"policy":"edd"},
+  {"run_id":"170","purpose":"SCENARIO_IDEAL","lam":1.5,"mu":3.0,"servers":2,"fleet":5,"vehicle_capacity":8,"horizon":500,"seed":205,"policy":"edd"},
+
+  {"run_id":"171","purpose":"EXTREME_LOW_LAM_0.2","lam":0.2,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":201,"policy":"edd"},
+  {"run_id":"172","purpose":"EXTREME_LOW_LAM_0.2","lam":0.2,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":202,"policy":"edd"},
+  {"run_id":"173","purpose":"EXTREME_LOW_LAM_0.2","lam":0.2,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":203,"policy":"edd"},
+  {"run_id":"174","purpose":"EXTREME_LOW_LAM_0.2","lam":0.2,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":204,"policy":"edd"},
+  {"run_id":"175","purpose":"EXTREME_LOW_LAM_0.2","lam":0.2,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":205,"policy":"edd"},
+
+  {"run_id":"176","purpose":"EXTREME_HIGH_LAM_5.0","lam":5.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":201,"policy":"edd"},
+  {"run_id":"177","purpose":"EXTREME_HIGH_LAM_5.0","lam":5.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":202,"policy":"edd"},
+  {"run_id":"178","purpose":"EXTREME_HIGH_LAM_5.0","lam":5.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":203,"policy":"edd"},
+  {"run_id":"179","purpose":"EXTREME_HIGH_LAM_5.0","lam":5.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":204,"policy":"edd"},
+  {"run_id":"180","purpose":"EXTREME_HIGH_LAM_5.0","lam":5.0,"mu":3.0,"servers":1,"fleet":3,"vehicle_capacity":8,"horizon":500,"seed":205,"policy":"edd"}
+]

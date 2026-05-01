@@ -1,0 +1,22 @@
+{
+  "run_id": "006",
+  "lam": 2.0,
+  "mu": 3.0,
+  "servers": 1,
+  "fleet": 5,
+  "vehicle_capacity": 8,
+  "horizon": 500.0,
+  "seed": 106,
+  "policy": "edd",
+  "sample_dt": 1.0,
+  "environment": {
+    "python": "3.11.9",
+    "platform": "Windows-10-10.0.19045-SP0",
+    "simpy_version": "4.1.1"
+  },
+  "run_started_utc": "2026-04-10T02:05:59.238892+00:00",
+  "purpose": "Bigger fleet",
+  "run_finished_utc": "2026-04-10T02:05:59.257810+00:00",
+  "duration_s": 0.01872569997794926,
+  "status": "Complete"
+}

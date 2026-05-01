@@ -1,0 +1,10 @@
+run_id,purpose,lam,mu,servers,fleet,vehicle_capacity,horizon,seed,policy,duration_s,status,timeseries_file,events_file,summary_file,config_file
+demo01,Baseline,2.0,3.0,1,3,8,500.0,101,edd,0.019578,Complete,run_demo01_timeseries.csv,run_demo01_events.csv,run_demo01_summary.json,run_demo01_config.json
+demo02,Peak stress,3.0,3.0,1,2,8,500.0,102,edd,0.026485,Complete,run_demo02_timeseries.csv,run_demo02_events.csv,run_demo02_summary.json,run_demo02_config.json
+demo01,,2.0,3.0,1,3,8,500.0,101,edd,0.018765,Complete,run_demo01_timeseries.csv,run_demo01_events.csv,run_demo01_summary.json,run_demo01_config.json
+demo01,,2.0,3.0,1,3,8,500.0,101,edd,0.018757,Complete,run_demo01_timeseries.csv,run_demo01_events.csv,run_demo01_summary.json,run_demo01_config.json
+demo02,,3.0,3.0,1,2,8,500.0,102,edd,0.026137,Complete,run_demo02_timeseries.csv,run_demo02_events.csv,run_demo02_summary.json,run_demo02_config.json
+demo03,,2.0,3.0,1,3,8,500.0,103,fcfs,0.018273,Complete,run_demo03_timeseries.csv,run_demo03_events.csv,run_demo03_summary.json,run_demo03_config.json
+demo01,,2.0,3.0,1,3,8,500.0,101,edd,0.021367,Complete,run_demo01_timeseries.csv,run_demo01_events.csv,run_demo01_summary.json,run_demo01_config.json
+demo02,,3.0,3.0,1,2,8,500.0,102,edd,0.025935,Complete,run_demo02_timeseries.csv,run_demo02_events.csv,run_demo02_summary.json,run_demo02_config.json
+demo03,,2.0,3.0,1,3,8,500.0,103,fcfs,0.017266,Complete,run_demo03_timeseries.csv,run_demo03_events.csv,run_demo03_summary.json,run_demo03_config.json
